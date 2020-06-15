@@ -1,0 +1,2602 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--  brand_subcategory / /airone/ventilyacia/osevye-ventilyatory.html   -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Осевые вентиляторы AIRONE – каталог продуктового ассортимента </title>
+<meta name="description" content="Каталог продукции осевых настенных вентиляторов канального типа бренда AIRONE. Низкие цены по прайс-листу">
+<meta name="keywords" content="AIRONE, осевой вентилятор AIRONE AX, осевой вентилятор AIRONE AGR, осевой вентилятор AIRONE AXG(B), осевой вентилятор AIRONE AXG(S), осевые вентиляторы, осевые настенные вентиляторы, осевые канальные вентиляторы, нагнетающий вентиляторы, всасывающие вентиляторы, вентиляторы с решеткой, вентиляторы с настенной решеткой, вентиляторы для канальной вентиляции,осевые вентиляторы с с внешнероторным двигателем,">
+<meta name="autor" content="sales@putivetra.ru">
+<meta name="copyright" content="ООО Пути Ветра, кондиционирование и вентиляция" />
+
+<link href="/assets/css/reset.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/assets/css/typography.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/assets/css/forms.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/assets/css/layout.css" rel="stylesheet" type="text/css" media="all" />
+
+
+
+<!--[if lt IE 9]><link href="/assets/css/ie.css" rel="stylesheet" type="text/css" media="all" /><![endif]-->
+<script type="text/javascript" src="/assets/js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/js.common.js"></script>
+<script language="javascript">
+  $(document).ready(function(){
+    $('#for-load').load('/orders/show_cart?m=24122');
+    /* $('#step-informer').load('/orders/step_informer');  */
+  });
+  function delete_cookie(cookie_name){
+    var cookie_date = new Date(); cookie_date.setTime(cookie_date.getTime() - 1);
+    document.cookie = cookie_name += "=; expires=" + cookie_date.toGMTString();
+  }
+  function set_cookie (name, value){
+    var cookie_string = name + "=" + escape(value); 
+        cookie_string += "; path=" + escape ('/');
+    var expires = new Date (2021, 4, 11);
+    cookie_string += "; expires=" + expires.toGMTString();
+    document.cookie = cookie_string;
+  }
+  function get_cookie(cookie_name){
+    var results = document.cookie.match('(^|;)?' + cookie_name + '=([^;]*)(;|$)');
+    if(results){return(unescape(results[2]));}else{return null;} 
+  }    
+  function set_prid1(prid){
+    var prids = get_cookie('prids'); var nois = true; var p = [];
+    if(!!prids == true){ p = prids.split('-'); var ind; 
+      for(ind = p.length - 1; ind >= 0; --ind){ if(p[ind] == prid){nois = false;}; }  
+    }; 
+    //delete_cookie('prids');
+    if(nois == true){ p.push(prid); set_cookie( 'prids', p.join('-') ); };
+  }
+  function set_prid(prid){
+    // set_cookie('prids', '');
+    var prids = get_cookie('prids'); var p1 = []; var p2 = []; 
+    if(!!prids == true){ p1 = prids.split('-'); var ind; 
+      for(ind = 0; ind < p1.length; ++ind){ if(p1[ind] !== prid){p2.push(p1[ind]);};};   
+    }; p2.push(prid); set_cookie('prids', p2.join('-')); 
+  }
+</script>
+
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="no-cache" />
+<meta http-equiv="cache-control" content="no-cache" />
+<script type="text/javascript" language="JavaScript"> document.onselectstart=function(){return false} document.oncontextmenu=function(){return false} document.onmousedown=function(){return false}</script>
+
+
+
+
+</head>
+
+ <body oncopy="return false;">
+
+<!--layout-->
+<div id="layout">
+
+  <!--header-->
+  <div id="header" class="clearfix">
+    <!--site logo-->
+    <div class="logo"><a href="/">Осевые вентиляторы AIRONE – каталог продуктового ассортимента</a></div>
+    <!--site logo end-->
+    <!--slogan-->
+    <div class="slogan">КОНДИЦИОНЕРЫ * ВЕНТИЛЯЦИЯ * VRV-VRF СИСТЕМЫ</div>
+    <!--slogan end-->
+    <!--phone-->
+    <div class="phone">8 495 647-85-11</div>
+    <!--phone end-->
+    <!--description-->
+    <div class="description"> климатическая компания <span>Официальный дилер</span> </div>
+    <!--description end-->
+    <a href="/search/paramsearch" class="search_params">параметрический поиск</a>
+    <!--cart-->
+    <div class="cart">
+      <div class="c" id="for-load">
+      </div>
+    </div>
+    <!--cart end-->
+    <!--search-->
+
+  <!--
+<div class="ya-site-form ya-site-form_inited_no" onclick="return {'bg': 'transparent', 'publicname': 'Yandex Site Search #2073142', 'target': '_blank', 'language': 'ru', 'suggest': true, 'tld': 'ru', 'site_suggest': true, 'action': 'http://www.putivetra.ru/searching.html', 'webopt': false, 'fontsize': 16, 'arrow': false, 'fg': '#000000', 'searchid': '2073142', 'logo': 'rb', 'websearch': false, 'type': 3}"><form action="http://yandex.ru/sitesearch" method="get" target="_blank"><input type="hidden" name="searchid" value="2073142" /><input type="hidden" name="l10n" value="ru" /><input type="hidden" name="reqenc" value="" /><input type="text" name="text" value="" /><input type="submit" value="Найти" /></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;(' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1&&(e.className+=' ya-page_js_yes');s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+  -->
+    <form action="/search/results">
+      <div class="search">
+        <input type="text" onfocus="if (this.value == 'введите слово или фразу для поиска...') { this.value=''; }"
+                           onblur="if (this.value == '') { this.value='введите слово или фразу для поиска...' }"
+                           value="введите слово или фразу для поиска..." name="searchphrase" />
+        <input type="image" src="/assets/images/search_btn.png" />
+      </div>
+    </form>
+    <!--search end-->
+  </div>
+  <!--header end-->
+
+  <div id="subheader">
+    <!--header navigation-->
+    <ul class="nav clearfix">
+
+      <li class="m1"><a href="/o_kompanii_puti_vetra.html">Пути Ветра</a></li>
+      <li class="m2"><a href="/katalog_oborudovania.html">Каталог климатического оборудования</a></li>
+      <li class="m3"><a href="/firmy_i_brendi.html">Производители климатического оборудования</a></li>
+      <li class="m4"><a href="/uslugi_putei_vetra.html">Услуги</a></li>
+      <li class="m5"><a href="/obzory.html">Обзоры климатического оборудования</a></li>
+      <li class="m7"><a href="/vakansii.html">Вакансии</a></li>
+      <li class="m8"><a href="/kontakty.html">Контакты</a></li>
+    </ul>
+    <!--header navigation end-->
+    <!--sitemap links-->
+    <ul class="sitemap">
+      <li><a href="/"><img src="/assets/images/ico_home.png" alt="" /></a></li>
+      <!--  <li><a href=""><img src="/assets/images/ico_sitemap.png" alt="" /></a></li>  -->
+      <li><a href="mailto:sales@putivetra.ru"><img src="/assets/images/ico_mail.png" alt="" /></a></li>
+    </ul>
+    <!--sitemap links end-->
+
+  </div>
+   <ul class="breadcrumbs clearfix">
+    <li><a href="/"><img src="/assets/images/breadcrumb_home.png" alt="" /></a></li>
+         <li><a href="/katalog_oborudovania.html">Климатическое оборудование</a></li>
+         <li><a href="/ventilyacia.html">Вентиляция</a></li>
+         <li class="last"><a href="/ventilyacia/osevye-ventilyatory.html">Осевые вентиляторы</a></li>
+   </ul>
+
+<div id="step-informer" align="center"></div>
+
+
+
+
+
+  <!--wrap-->
+  <div id="wrap" class="col3_layout col2_layout2 clearfix">
+
+    <!--content-->
+    <div class="content clearfix">
+      <div class="col_a col_a_catalog">
+        <a href="/airone.html" class="leftcol"><img alt="Aerone_logo" class="lclogo" height="120" src="/system/brands/logo_larges/112/original/aerone_logo.jpg?1568215199" width="180" /></a>
+
+        <ul class="catalog">
+      
+        <li><a href="/airone/accessories.html">Аксессуары и комплектующие</a>
+
+          <ul>
+          
+            <li>
+               <a href="/airone/accessories/chastotnie_preobrazovateli.html">Частотные преобразователи</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/accessories/electroprivodi.html">Электроприводы</a>
+
+
+            </li>
+          </ul>
+
+        </li>
+      
+        <li><a href="/airone/ventilyacia.html" class="active">Вентиляция</a>
+
+          <ul>
+          
+            <li>
+               <a href="/airone/ventilyacia/gibkiy_vozduhovod.html">Гибкий воздуховод</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/obratnie-klapani.html">Обратные клапаны</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/priamougolniy_kanalniy_ventiliator.html">Прямоугольные канальные вентиляторы</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/osevye-ventilyatory.html" class="active">Осевые вентиляторы</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/krugliy_kanalniy_ventiliator.html">Круглые канальные вентиляторы</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/nastennye-ventilyatory.html">Настенные вентиляторы</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/ventiliacionnie_reshetki.html">Воздухораспределительные устройства, вентиляционные решетки, диффузоры, анемостаты потолочные</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/pritochno_vitaznaya_ustanovka.html">Приточно-вытяжная установка</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/shumoglushitel.html">Шумоглушители</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/detsentralizovannaya_ventilyatsiya.html">Децентрализованная вентиляция </a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/ognezaschita_vozduhovodov.html">Огнезащита воздуховодов</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/ventilyacia/ventillyacia-teploobmennik-vozduh-saf.html">Теплообменник дополнительного охлаждения/подогрева воздуха для SAF</a>
+
+
+            </li>
+          </ul>
+
+        </li>
+      
+        <li><a href="/airone/vent_avtomatika.html">Автоматика для вентиляции</a>
+
+          <ul>
+          
+            <li>
+               <a href="/airone/vent_avtomatika/reguliatori_temperaturi.html">Регуляторы температуры</a>
+
+
+            </li>
+          
+            <li>
+               <a href="/airone/vent_avtomatika/regulyatory_skorosti.html">Регуляторы скорости</a>
+
+
+            </li>
+          </ul>
+
+        </li>
+      
+        <li><a href="/airone/uvlajniteli-vozduha.html">Увлажнители воздуха</a>
+
+          <ul>
+          
+            <li>
+               <a href="/airone/uvlajniteli-vozduha/vstraivaemye-uvlajniteli.html">Электродные увлажнители воздуха</a>
+
+
+            </li>
+          </ul>
+
+        </li>
+</ul>
+
+      </div>
+      <div class="col_b clearfix">
+        <div class="catalog_detail_item">       <!--  8270  -->
+          <!-- h2> </h2 -->
+
+
+          <h1>  КАТАЛОГ AIRONE  <br /> ОСЕВЫЕ ВЕНТИЛЯТОРЫ  </h1>
+
+
+
+          <p>
+                       </p>
+
+
+         <div id="topplace">
+         </div>
+
+
+          <!-- h3>Серии оборудования  </h3 -->
+
+
+              <noindex>
+                      <div id="selpar0">
+          <table style="margin:0px; margin-bottom:30px; border:none; width:100%;">
+            <tr id="selpar0a"><!--2567  true  -->
+              <td width="610" style="padding:0px; border:none; ">
+
+                <div style="font-size:20px; color:#777; padding-top:70px;">
+                  <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax.html"> AIRONE AX</a>
+                </div>
+
+              </td>
+              <td width="140" align="center" style="padding:0px 0px 8px 0px; border:none;">
+                   <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax.html"><img alt="Aerone_ax" src="/system/album_files/attachments/2131/original/AERONE_AX.jpg?1575111995" style="width:120px; height:100px; margin:0px;" /></a>
+              </td>
+            </tr>
+            <tr id="selpar0b">
+              <td colspan="2" style="padding:0px; padding-bottom:10px; border:none;">
+
+                         <table width="100%" cellspacing="0" class="catitem_table" cellpadding="0">
+          <tr>
+             <td style="white-space: nowrap;"> <b>Модель блока</b> </td> 
+             <!-- td> Описание </td -->
+              <td align="center"> <b>Диаметр</b><br />мм</td>
+              <td align="center"> <b>Расход воздуха</b><br />м3/ч</td>
+              <td align="center"> <b>Уровень ш­ума</b><br />дБ</td>
+              <td align="center"> <b>Потребляемая мощность</b><br />кВт</td>
+              <td align="center"> <b>Вес</b><br />кг</td>
+              <td align="center"> <b>Размеры (ДхШхВ)</b><br />мм</td>
+             <td width="60" align="center"> <b>Цена</b> <br />руб </td>
+             <td width="0" style="padding:0px;"></td>
+          </tr>
+
+          <tr id="sample0" params="|0|||65||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11426-3567-ax2e-200b-h5z.html"> AX2E-200B-H5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     200               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     710               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     65               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,06               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     235x180x235               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 388             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample1" params="|0|||50||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11427-3567-ax4e-200b-h5z.html"> AX4E-200B-H5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     200               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     385               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     50               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,02               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     265x180x265               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 2 990             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample2" params="|0|||50||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11428-3567-ax4d-200b-h5z.html"> AX4D-200B-H5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     200               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     385               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     50               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,03               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     265x180x265               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 2 990             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample3" params="|0|||72||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11429-3567-ax2d-250b-h5z.html"> AX2D-250B-H5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     250               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1565               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,13               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     5,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     285x180x285               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 737             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample4" params="|0|||75||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11430-3567-ax2e-250b-h5z.html"> AX2E-250B-H5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     250               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1565               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     75               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,09               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     5,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     285x180x285               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 737             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample5" params="|0|||55||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11431-3567-ax4d-250b-h5z.html"> AX4D-250B-H5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     250               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     880               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     55               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,05               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     5,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     315x180x315               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 139             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample6" params="|0|||55||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11432-3567-ax4e-250b-h5z.html"> AX4E-250B-H5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     300               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     880               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     55               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,05               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     5,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     315x180x315               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 139             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample7" params="|0|||62||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11433-3567-ax4d-300b-h5l.html"> AX4D-300B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     300               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1525               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     62               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,09               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     6,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     360x180x360               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 438             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample8" params="|0|||62||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11434-3567-ax4e-300b-h5l.html"> AX4E-300B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     350               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1525               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     62               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,11               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     6,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     360x180x360               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 438             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample9" params="|0|||68||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11435-3567-ax4d-350b-h5l.html"> AX4D-350B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     350               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2470               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,18               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     8,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     390x210x390               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 4 435             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample10" params="|0|||68||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11436-3567-ax4e-350b-h5l.html"> AX4E-350B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     350               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2470               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,18               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     8,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     390x210x390               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 4 435             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample11" params="|0|||68||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11437-3567-ax4d-400b-h5l.html"> AX4D-400B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     400               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3745               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,20               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     8,7               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     440x210x440               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 4 933             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample12" params="|0|||70||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11438-3567-ax4e-400b-h5l.html"> AX4E-400B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     400               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3935               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     70               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,30               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     8,7               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     440x210x440               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 4 933             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample13" params="|0|||72||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11439-3567-ax4d-450b-h5l.html"> AX4D-450B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     450               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     4725               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,33               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     11,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     490x210x490               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 5 980             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample14" params="|0|||72||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11440-3567-ax4e-450b-h5l.html"> AX4E-450B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     450               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     4725               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,40               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     11,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     490x210x490               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 5 980             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample15" params="|0|||72||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11441-3567-ax4d-500b-h5l.html"> AX4D-500B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     500               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     6770               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,65               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     14,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     545x225x545               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 7 874             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample16" params="|0|||72||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11442-3567-ax4e-500b-h5l.html"> AX4E-500B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     500               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     6770               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,60               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     14,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     545x225x545               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 7 874             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample17" params="|0|||72||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11443-3567-ax4d-550b-h5l.html"> AX4D-550B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     550               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     8555               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     17,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     595x225x595               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 9 020             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample18" params="|0|||72||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11444-3567-ax4e-550b-h5l.html"> AX4E-550B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     550               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     8555               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,95               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     17,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     595x225x595               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 9 020             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample19" params="|0|||80||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11445-3567-ax4d-630b-h5l.html"> AX4D-630B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     630               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     12280               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1,20               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     20,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     645x245x645               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 13 904             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample20" params="|0|||80||||" longdiv="0">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax/z11446-3567-ax4e-630b-h5l.html"> AX4E-630B-H5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     630               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     12280               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,95               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     20,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     645x245x645               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 13 904             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+        </table>
+
+     <!--
+     -->
+
+
+
+                    <div class="block-page-segment clearfix" style="margin-right:0px; width:100%; "></div>
+
+              </td>
+            </tr>
+            <tr id="selpar1a"><!--2568  true  -->
+              <td width="610" style="padding:0px; border:none; ">
+
+                <div style="font-size:20px; color:#777; padding-top:40px; padding-bottom:10px; ">
+                  <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg.html"> AIRONE AXG</a>                </div>
+                <p> Нагнетающий </p> 
+  <br />
+
+              </td>
+              <td width="140" align="center" style="padding:0px 0px 8px 0px; border:none;">
+                   <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg.html"><img alt="Aerone_axg_(b)" src="/system/album_files/attachments/2132/original/AERONE_AXG_(B).jpg?1575112429" style="width:120px; height:100px; margin:0px;" /></a>
+              </td>
+            </tr>
+            <tr id="selpar1b">
+              <td colspan="2" style="padding:0px; padding-bottom:10px; border:none;">
+
+                         <table width="100%" cellspacing="0" class="catitem_table" cellpadding="0">
+          <tr>
+             <td style="white-space: nowrap;"> <b>Модель блока</b> </td> 
+             <!-- td> Описание </td -->
+              <td align="center"> <b>Диаметр</b><br />мм</td>
+              <td align="center"> <b>Расход воздуха</b><br />м3/ч</td>
+              <td align="center"> <b>Уровень ш­ума</b><br />дБ</td>
+              <td align="center"> <b>Потребляемая мощность</b><br />кВт</td>
+              <td align="center"> <b>Вес</b><br />кг</td>
+              <td align="center"> <b>Размеры (ДхШхВ)</b><br />мм</td>
+             <td width="60" align="center"> <b>Цена</b> <br />руб </td>
+             <td width="0" style="padding:0px;"></td>
+          </tr>
+
+          <tr id="sample21" params="|0|||50||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11447-3568-axg4d-200b-e5z.html"> AXG4D-200B-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     200               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     385               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     50               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,03               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     10,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     265x140x265               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 2 733             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample22" params="|0|||55||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11448-3568-axg4d-250b-e5z.html"> AXG4D-250B-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     250               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     880               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     55               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,05               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     13,5               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     330x145x330               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 2 847             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample23" params="|0|||60||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11449-3568-axg4d-300b-e5z.html"> AXG4D-300B-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     300               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1450               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     60               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,07               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     16,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     360x155x360               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 018             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample24" params="|0|||68||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11450-3568-axg4d-350b-e5l.html"> AXG4D-350B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     350               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2470               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,18               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     22,9               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     422x175,5x422               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 986             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample25" params="|0|||68||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11451-3568-axg4d-400b-e5l.html"> AXG4D-400B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     400               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3745               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,20               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     26,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     470x187,5x470               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 4 499             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample26" params="|0|||72||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11452-3568-axg4d-450b-e5l.html"> AXG4D-450B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     450               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     4725               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,33               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     34,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     522x200x522               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 5 467             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample27" params="|0|||72||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11453-3568-axg4d-500b-e5l.html"> AXG4D-500B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     500               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     6770               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,65               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     49,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     570x200x570               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 6 606             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample28" params="|0|||72||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11454-3568-axg4d-550b-e5l.html"> AXG4D-550B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     550               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     8555               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     55,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     570x214x570               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 7 803             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample29" params="|0|||80||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11455-3568-axg4d-630b-e5l.html"> AXG4D-630B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     630               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     12280               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1,20               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     76,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     736x234x736               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 10 992             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample30" params="|0|||50||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11456-3568-axg4e-200b-e5z.html"> AXG4E-200B-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     200               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     385               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     50               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,02               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     10,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     265x140x265               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 2 733             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample31" params="|0|||55||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11457-3568-axg4e-250b-e5z.html"> AXG4E-250B-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     300               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     880               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     55               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,05               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2,7               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     330x145x330               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 2 847             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample32" params="|0|||60||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11458-3568-axg4e-300b-e5z.html"> AXG4E-300B-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     300               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1450               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     60               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,08               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     13,5               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     360x155x360               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 018             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample33" params="|0|||68||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11459-3568-axg4e-350b-e5l.html"> AXG4E-350B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     350               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2470               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,18               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     22,9               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     422x175,5x422               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 986             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample34" params="|0|||70||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11460-3568-axg4e-400b-e5l.html"> AXG4E-400B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     400               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3935               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     70               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,30               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     26,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     470x187,5x470               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 4 499             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample35" params="|0|||72||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11461-3568-axg4e-450b-e5l.html"> AXG4E-450B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     450               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     4725               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,40               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     34,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     522x200x522               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 5 467             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample36" params="|0|||72||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11462-3568-axg4e-500b-e5l.html"> AXG4E-500B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     500               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     6770               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,60               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     49,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     570x200x570               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 6 606             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample37" params="|0|||72||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11463-3568-axg4e-550b-e5l.html"> AXG4E-550B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     550               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     8555               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,95               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     55,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     570x214x570               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 7 803             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample38" params="|0|||80||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11464-3568-axg4e-630b-e5l.html"> AXG4E-630B-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     630               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     12280               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,95               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     76,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     736x234x736               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 10 992             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample39" params="|0|||68||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11465-3568-axg6d-710b-e6l.html"> AXG6D-710B-E6L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     710               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     10165               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,44               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     97,5               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     795x234x795               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 19 593             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample40" params="|0|||77||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11466-3568-axg6d-710gb-e7l.html"> AXG6D-710GB-E7L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     710               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     14800               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     77               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,93               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     160,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     795x234x795               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 27 396             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample41" params="|0|||80||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11467-3568-axg6d-800gb-e7l.html"> AXG6D-800GB-E7L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     800               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     25800               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2,12               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     175,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     960x328,5x960               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 36 167             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample42" params="|0|||85||||" longdiv="1">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg/z11468-3568-axg6d-910gb-e7l.html"> AXG6D-910GB-E7L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     910               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     27000               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     85               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1,35               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     210,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1075x328,5x1075               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 40 325             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+        </table>
+
+     <!--
+     -->
+
+
+
+                    <div class="block-page-segment clearfix" style="margin-right:0px; width:100%; "></div>
+
+              </td>
+            </tr>
+            <tr id="selpar2a"><!--2569  true  -->
+              <td width="610" style="padding:0px; border:none; ">
+
+                <div style="font-size:20px; color:#777; padding-top:40px; padding-bottom:10px; ">
+                  <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg.html"> AIRONE AXG</a>                </div>
+                <p> Всасывающий </p> 
+  <br />
+
+              </td>
+              <td width="140" align="center" style="padding:0px 0px 8px 0px; border:none;">
+                   <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg.html"><img alt="Aerone_axg_(s)" src="/system/album_files/attachments/2134/original/AERONE_AXG_(S).jpg?1575200011" style="width:120px; height:100px; margin:0px;" /></a>
+              </td>
+            </tr>
+            <tr id="selpar2b">
+              <td colspan="2" style="padding:0px; padding-bottom:10px; border:none;">
+
+                         <table width="100%" cellspacing="0" class="catitem_table" cellpadding="0">
+          <tr>
+             <td style="white-space: nowrap;"> <b>Модель блока</b> </td> 
+             <!-- td> Описание </td -->
+              <td align="center"> <b>Диаметр</b><br />мм</td>
+              <td align="center"> <b>Расход воздуха</b><br />м3/ч</td>
+              <td align="center"> <b>Уровень ш­ума</b><br />дБ</td>
+              <td align="center"> <b>Потребляемая мощность</b><br />кВт</td>
+              <td align="center"> <b>Вес</b><br />кг</td>
+              <td align="center"> <b>Размеры (ДхШхВ)</b><br />мм</td>
+             <td width="60" align="center"> <b>Цена</b> <br />руб </td>
+             <td width="0" style="padding:0px;"></td>
+          </tr>
+
+          <tr id="sample43" params="|0|||50||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11469-3569-axg4d-200s-e5z.html"> AXG4D-200S-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     200               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     385               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     50               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,03               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     265x140x265               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 2 904             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample44" params="|0|||55||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11470-3569-axg4d-250s-e5z.html"> AXG4D-250S-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     250               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     880               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     55               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,05               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2,7               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     330x145x330               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 025             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample45" params="|0|||60||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11471-3569-axg4d-300s-e5z.html"> AXG4D-300S-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     300               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1450               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     60               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,07               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3,2               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     360x155x360               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 207             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample46" params="|0|||68||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11472-3569-axg4d-350s-e5l.html"> AXG4D-350S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     350               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2470               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,18               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     4,6               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     422x175,5x422               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 4 236             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample47" params="|0|||68||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11473-3569-axg4d-400s-e5l.html"> AXG4D-400S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     400               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3745               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,20               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     5,2               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     470x187,5x470               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 4 780             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample48" params="|0|||72||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11474-3569-axg4d-450s-e5l.html"> AXG4D-450S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     450               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     4725               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,33               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     6,8               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     522x200x522               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 5 809             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample49" params="|0|||72||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11475-3569-axg4d-500s-e5l.html"> AXG4D-500S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     500               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     6770               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,65               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     9,8               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     570x200x570               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 7 019             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample50" params="|0|||72||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11476-3569-axg4d-550s-e5l.html"> AXG4D-550S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     550               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     8555               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     11,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     570x214x570               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 8 290             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample51" params="|0|||80||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11477-3569-axg4d-630s-e5l.html"> AXG4D-630S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     630               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     12280               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1,20               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     15,2               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     736x234x736               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 11 679             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample52" params="|0|||50||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11478-3569-axg4e-200s-e5z.html"> AXG4E-200S-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     200               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     385               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     50               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,02               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     265x140x265               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 2 904             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample53" params="|0|||55||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11479-3569-axg4e-250s-e5z.html"> AXG4E-250S-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     300               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     880               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     55               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,05               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2,7               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     330x145x330               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 025             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample54" params="|0|||60||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11480-3569-axg4e-300s-e5z.html"> AXG4E-300S-E5Z </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     300               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1450               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     60               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,08               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3,2               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     360x155x360               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 3 207             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample55" params="|0|||68||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11481-3569-axg4e-350s-e5l.html"> AXG4E-350S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     350               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2470               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,18               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     4,6               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     422x175,5x422               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 4 236             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample56" params="|0|||70||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11482-3569-axg4e-400s-e5l.html"> AXG4E-400S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     400               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     3935               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     70               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,30               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     5,2               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     470x187,5x470               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 4 780             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample57" params="|0|||72||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11483-3569-axg4e-450s-e5l.html"> AXG4E-450S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     450               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     4725               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,40               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     6,8               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     522x200x522               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 5 809             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample58" params="|0|||72||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11484-3569-axg4e-500s-e5l.html"> AXG4E-500S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     500               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     6770               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,60               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     9,8               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     570x200x570               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 7 019             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample59" params="|0|||72||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11485-3569-axg4e-550s-e5l.html"> AXG4E-550S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     550               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     8555               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     72               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,95               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     11,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     570x214x570               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 8 290             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample60" params="|0|||80||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11486-3569-axg4e-630s-e5l.html"> AXG4E-630S-E5L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     630               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     12280               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,95               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     15,2               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     736x234x736               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 11 679             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample61" params="|0|||68||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11487-3569-axg6d-710gs-e7l.html"> AXG6D-710GS-E7L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     710               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     10165               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     68               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,44               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     19,5               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     795x234x795               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 29 108             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample62" params="|0|||77||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11488-3569-axg6d-710s-e6l.html"> AXG6D-710S-E6L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     710               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     14800               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     77               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,93               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     32,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     795x234x795               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 20 817             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample63" params="|0|||80||||" longdiv="2">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg/z11489-3569-axg6d-800gs-e7l.html"> AXG6D-800GS-E7L </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     800               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     25800               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     80               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     2,12               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     35,0               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     960x328,5x960               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 38 427             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+        </table>
+
+     <!--
+     -->
+
+
+
+                    <div class="block-page-segment clearfix" style="margin-right:0px; width:100%; "></div>
+
+              </td>
+            </tr>
+            <tr id="selpar3a"><!--2896  true  -->
+              <td width="610" style="padding:0px; border:none; ">
+
+                <div style="font-size:20px; color:#777; padding-top:40px; padding-bottom:10px; ">
+                  <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr.html"> AIRONE AGR</a>                </div>
+                <p> Внимание! Поставка от 10 до 12 рабочих недель </p> 
+  <br />
+
+              </td>
+              <td width="140" align="center" style="padding:0px 0px 8px 0px; border:none;">
+                   <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr.html"><img alt="Airone-agr" src="/system/album_files/attachments/2492/original/AIRONE-AGR.png?1586357726" style="width:120px; height:100px; margin:0px;" /></a>
+              </td>
+            </tr>
+            <tr id="selpar3b">
+              <td colspan="2" style="padding:0px; padding-bottom:10px; border:none;">
+
+                         <table width="100%" cellspacing="0" class="catitem_table" cellpadding="0">
+          <tr>
+             <td style="white-space: nowrap;"> <b>Модель блока</b> </td> 
+             <!-- td> Описание </td -->
+              <td align="center"> <b>Диаметр</b><br />мм</td>
+              <td align="center"> <b>Расход воздуха</b><br />м3/ч</td>
+              <td align="center"> <b>Уровень ш­ума</b><br />дБ</td>
+              <td align="center"> <b>Потребляемая мощность</b><br />кВт</td>
+              <td align="center"> <b>Вес</b><br />кг</td>
+              <td align="center"> <b>Размеры (ДхШхВ)</b><br />мм</td>
+             <td width="60" align="center"> <b>Цена</b> <br />руб </td>
+             <td width="0" style="padding:0px;"></td>
+          </tr>
+
+          <tr id="sample64" params="|0|||||||" longdiv="3">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr/z13422-3896-agr-460.html"> AGR 460 </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     400               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     4500               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,25               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     480x320x480               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 13 826             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample65" params="|0|||||||" longdiv="3">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr/z13423-3896-agr-560.html"> AGR 560 </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     500               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     7000               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,37               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     580x320x580               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 15 807             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample66" params="|0|||||||" longdiv="3">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr/z13424-3896-agr-600.html"> AGR 600 </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     600               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     12000               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,55               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     680x320x680               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 17 444             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample67" params="|0|||||||" longdiv="3">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr/z13425-3896-agr-710.html"> AGR 710 </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     720               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     20000               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,37               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     800x400x800               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 20 201             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample68" params="|0|||||||" longdiv="3">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr/z13426-3896-agr-800.html"> AGR 800 </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     850               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     28000               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,37               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     900x400x900               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 23 604             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample69" params="|0|||||||" longdiv="3">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr/z13418-3896-agr-1000.html"> AGR 1000 </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     950               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     32000               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,55               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1060x400x1060               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 27 696             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample70" params="|0|||||||" longdiv="3">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr/z13419-3896-agr-1100.html"> AGR 1100 </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1100               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     37000               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     0,75               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1220x400x1220               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 30 754             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample71" params="|0|||||||" longdiv="3">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr/z13420-3896-agr-1300.html"> AGR 1300 </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1270               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     44500               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1,10               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1380x400x1380               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 33 554             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+          <tr id="sample72" params="|0|||||||" longdiv="3">
+             <td style="white-space: nowrap; vertical-align:middle;"> 
+             <a href="/airone/ventilyacia/osevye-ventilyatory/m3896-212-agr/z13421-3896-agr-1400.html"> AGR 1400 </a>
+             </td>
+
+             <!-- td>
+               <br />
+             </td -->
+
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1400               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     54000               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1,50               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     -
+               </td>
+               <td align="center" valign="middle" style="vertical-align:middle;">
+                     1530x400x1530               </td>
+
+             <td align="center" style="white-space: nowrap; vertical-align:middle;">
+                 39 584             </td>
+             <td align="center" style="white-space: nowrap; vertical-align:middle; padding:0px;" valign="bottom"> 
+             </td>
+          </tr>
+        </table>
+
+     <!--
+     -->
+
+
+
+
+              </td>
+            </tr>
+          </table>
+      </div>          
+              </noindex>
+
+
+          <p>
+             <h4>Осевые вентиляторы настенного типа</h4>
+<p>Осевые вентиляторы AIRONE с внутристенным способом монтажа и с внешнероторным двигателем оборудованы возможностью регулирования скорости вращения вентилятора. В качестве управляющего устройства применяются <a href="http://www.putivetra.ru/vent_avtomatika/regulyatory_skorosti.html">регуляторы скорости</a> любого производителя систем автоматизации и управления вентиляционными системами.</p>
+<p>Серия осевых вентиляторов с защитной решеткой <a href="http://www.putivetra.ru/airone/ventilyacia/osevye-ventilyatory/m3567-212-ax.html">AIRONE AX</a> в обечайке с фланцами – компактная версия технического прибора. Вентилятор устанавливается непосредственно в систему вентиляционных каналов или в стену.</p>
+<p><a href="http://www.putivetra.ru/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg.html">AIRONE AXG</a> еще одна серия канальных вентиляторов, оснащенных защитной решеткой. Агрегаты устанавливаются в системы вентиляционных каналов, в стенные проемы или другие несущие опоры. Представлены две товарные группы. Осевые вентиляторы нагнетающего свойства (серии <a href="http://www.putivetra.ru/airone/ventilyacia/osevye-ventilyatory/m3568-212-axg.html">AIRONE AXG (B)</a> и всасывающим вентилятор (серия <a href="http://www.putivetra.ru/airone/ventilyacia/osevye-ventilyatory/m3569-212-axg.html">AIRONE AXG (S)</a>. Нагнетающие лопасти нужны для охлаждения технологических приборов, всасывающий – для забора отработанного технологического воздуха и выброса его наружу.</p>
+<p>Линейка осевых вентиляторов AIRONE AGR – спроектирован для работы на технически-сложных участках вентиляционных каналов. Там, где воздух содержит фрагменты грубой пыли и других загрязнений, препятствующих полноценной транспортировке воздушных потоков. Для таких условий в линейке осевых канальных вентиляторов AGR корпус усилен прочной оцинкованной сталью.</p>
+<p>Рабочее колесо вентилятора состоит из самоочищающихся лопастей. Сами лопасти изготовлены из сверхпрочной нержавеющей стали толщиной 1,2 мм. Электродвигатель вентилятора обладает повышенной степенью пыле-влагозащиты, являясь при этом совершенно бесшумным в работе. Класс защиты электродвигателя IP 55. </p>
+          </p>
+
+
+          <div class="catalog_moredetails">
+            <!--
+            <h3>Общие параметры и особенности</h3>
+            <p>...            </p>
+            -->
+
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--content end-->
+  </div>
+  <!--wrap end-->
+
+
+
+
+  <!--CF-->
+  <div id="clrf">&nbsp;</div>
+  <!--CF end-->
+</div>
+<!--layout end-->
+
+<!--footer-->
+<div id="footer" class="clearfix">
+  <div class="c clearfix">
+    <div class="contacts">
+      <div class="copy">&copy; 2020 Группа компаний &laquo;Пути Ветра&raquo;</div>
+        Телефон/факс: 8 (495) 647-85-11 <br />
+        E-mail: <a href="mailto:sales@putivetra.ru">sales@putivetra.ru</a> <br />
+      <!-- <a href="">Информация о сайте</a> -->
+
+<br />
+<!--LiveInternet counter--><script
+	type="text/javascript">
+	document.write("<a href='http://www.liveinternet.ru/click' "
+			+ "target=_blank><img src='//counter.yadro.ru/hit?t58.2;r"
+			+ escape(document.referrer)
+			+ ((typeof (screen) == "undefined") ? "" : ";s"
+					+ screen.width
+					+ "*"
+					+ screen.height
+					+ "*"
+					+ (screen.colorDepth ? screen.colorDepth
+							: screen.pixelDepth)) + ";u" + escape(document.URL)
+			+ ";" + Math.random() + "' alt='' title='LiveInternet' "
+			+ "border='0' width='88' height='31'><\/a>")
+	//-->
+</script><!--/LiveInternet-->
+
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter20865616 = new Ya.Metrika2({ id:20865616, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true, ecommerce:"dataLayer" }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/20865616" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym"); ym(56022940, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true, ecommerce:"dataLayer" }); </script> 
+<!-- /Yandex.Metrika counter -->
+
+
+
+<noindex>
+<a href="http://sitexpert.org"><img src="http://sitexpert.org/img/sitexpert.gif" alt="sitexpert.org" width="10" height="4"></a>
+</noindex>
+
+
+<!-- BEGIN cloudim code {literal} -->
+<script type="text/javascript" charset="utf-8">document.write(unescape("%3Cdiv id='cloudim_widget'%3E%3Cscript src='//static.cloudim.ru/js/chat.js' type='text/javascript'%3E%3C/script%3E%3C/div%3E"));</script> <div id="cloudim_cr" style="position:absolute; left:-9999px;"><a target="_blank" href="http://cloudim.ru/">Cloudim</a> - онлайн консультант для сайта бесплатно.</div>
+<script type="text/javascript" charset="utf-8">
+Cloudim.Chat.init({uid:14817});
+</script>
+<!-- {/literal} END cloudim code -->
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-54598511-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+      </div>
+    <div class="stats"> <!-- <span class="stats_title">Статистика сайта:</span><br />
+      Производителей: 30<br />
+      Брендов и ТМ: 35<br />
+      Видов оборудования: 500<br />
+      Номиналов техники: 2500<br />
+      <a href="">вся статистика</a> -->
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
+
+
+    <ul class="links">
+      <li><a href="/vrv.html">Мультизональные системы VRV</a></li>
+      <li><a href="/kondicionirovanie-zagorodnyi-dom.html">VRF-системы</a></li>
+      <li><a href="/montaj.html">Монтаж кондиционеров</a></li>
+      <li><a href="/kondicionirovanie-servernaya.html">Кондиционеры для серверов</a></li>
+      <li><a href="/arenda_kondicionerov-p99.html">Аренда кондиционеров</a></li>
+      <li><a href="/dozapravka-kondicionerov.html">Заправка кондиционера</a></li>
+    </ul>
+    <ul class="links last">
+      <li><a href="/daikin/promishlennye-kondicionery/promushlennye-fankoily.html">Daikin фанкойл</a></li>
+      <li><a href="/servis-split-sistem.html">Обслуживание кондиционирования</a></li>
+      <li><a href="/montaj_fankoilov.html">Монтаж фанкойлов</a></li>
+      <li><a href="/servisnoe-obslujivanie.html">Обслуживание сплит-систем</a></li>
+      <li><a href="/fujitsu.html">VRF Fujitsu</a></li>
+      <li><a href="/multizonlnye-vrv-vrf-sistemy.html">Системы VRV</a></li>
+    </ul>
+
+
+
+
+  </div>
+</div>
+<!--footer end-->
+
+</body>
+</html>
+
